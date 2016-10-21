@@ -4,7 +4,8 @@
   "license": "MIT",
   "description": "bluz twitter auth module",
   "require": {
-    "kvasenko/composer-installer-bluz": "dev-composer-installer"
+    "kvasenko/composer-installer-bluz": "dev-composer-installer",
+    "kvasenko/bluz-auth-module": "dev-master"
   },
   "extra": {
     "bluz": {
