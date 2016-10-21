@@ -1,0 +1,15 @@
+{
+  "name": "kvasenko/bluz-twitter-module",
+  "type": "bluz-module",
+  "license": "MIT",
+  "description": "bluz twitter auth module",
+  "require": {
+    "kvasenko/composer-installer-bluz": "dev-composer-installer"
+  },
+  "extra": {
+    "bluz": {
+      "module_name": "twitter",
+      "modules_path": "application/modules"
+    }
+  }
+}
