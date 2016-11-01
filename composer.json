@@ -9,8 +9,7 @@
   },
   "extra": {
     "bluz": {
-      "module_name": "twitter",
-      "modules_path": "application/modules"
+      "module_name": "twitter"
     }
   }
 }
